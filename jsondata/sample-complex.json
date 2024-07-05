@@ -1,0 +1,15 @@
+{
+	"id":101,
+	"name": "Rohit",
+	"city": "Bengaluru",
+	"active": true,
+	"course":{
+	"cid":111,
+	"cname":"Design patterns",
+	"instructorName":"Munna Bhai",
+	"price": 999
+	},
+	
+     "hobbies":["Playing games", "Scrolling reels", "Wasting Time", "losing focus"],
+     "nationality":"Indian"
+}
